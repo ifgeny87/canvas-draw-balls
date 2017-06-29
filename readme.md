@@ -25,4 +25,4 @@ Changelog
 
 Превью (по клику откроется оригинал)
 
-[![](history/preview_0.0.0_small.gif)](preview_0.0.0.gif)
+[![](history/preview_0.0.0_small.gif)](history/preview_0.0.0.gif)
